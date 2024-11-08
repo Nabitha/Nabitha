@@ -16,6 +16,5 @@ I craft beautiful UIs using the following technologies:
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabitha&layout=compact&theme=omni)
 
-![Nabitha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabitha&theme=radical)
 
 

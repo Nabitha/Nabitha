@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+my+profile!&center=true&size=25&color=f20056)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋&color=f20056;Welcome+to+my+profile!&center=true&size=25&color=f20056)
 
 <!--
 **Nabitha/Nabitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

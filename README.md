@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋&center=true&size=25&color=FF5733&lines=Welcome+to+my+profile!&color2=0000FF)
+## Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋%3BWelcome+to+my+profile!&center=true&size=25&color=FF5733&color2=0000FF)
 
 
 

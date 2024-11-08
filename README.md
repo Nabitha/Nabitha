@@ -1,6 +1,4 @@
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋&center=true&size=25&color=FF5733)
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!&center=true&size=25&color=0000FF)
 
 <!--

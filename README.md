@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋%3BWelcome+to+my+profile!&size=25&color=3cf200)
 
+🖥️ About Me:
+I’m a Front-End Developer with 3 years of experience building sleek, fast, and responsive web applications. I craft beautiful UIs using React.js, Next.js, TypeScript, Tailwind CSS, and more.
 
 
 <!--

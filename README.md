@@ -14,7 +14,7 @@ I craft beautiful UIs using the following technologies:
 
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabitha&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabitha&layout=compact&theme=gruvbox)
 
 
 <!--

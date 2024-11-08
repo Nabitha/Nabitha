@@ -3,7 +3,14 @@
 👨‍💻 **A Little About Me**:
 
 I’m a **Front-End Developer** with 3 years of experience building sleek, fast, and responsive web applications.  
-I craft beautiful UIs using **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and more.
+I craft beautiful UIs using the following technologies:
+
+- **React.js**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- and more...
+
 
 
 

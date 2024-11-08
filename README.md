@@ -9,7 +9,7 @@ I craft beautiful UIs using the following technologies:
 - **Next.js**
 - **TypeScript**
 - **Tailwind CSS**
-- and more...
+  and more...
 
 
 

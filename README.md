@@ -17,7 +17,7 @@ I craft beautiful UIs using the following technologies:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabitha&layout=compact&theme=omni)
 
 
-![Nabitha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nabitha&bg_color=FFFFFF&color=000000&line=0000FF&point=000000&area=true&hide_border=true)
+![Nabitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabitha&show_icons=true&count_private=true&hide=prs&theme=radical&include_all_commits=true)
 
 
 
